@@ -1,0 +1,8 @@
+com\abc\p2p\util\UUIDUtil.class
+com\abc\p2p\util\MD5Util.class
+com\abc\p2p\util\GenerateCodeUtil.class
+com\abc\p2p\Application.class
+com\abc\p2p\util\DateTimeUtil.class
+com\abc\p2p\constants\Constant.class
+com\abc\p2p\util\HttpClientUtils.class
+com\abc\p2p\util\Result.class

@@ -1,0 +1,12 @@
+com\abc\p2p\model\BidInfo.class
+com\abc\p2p\model\FinanceAccount.class
+com\abc\p2p\model\IncomeRecord.class
+com\abc\p2p\service\UserService.class
+com\abc\p2p\model\RechargeRecord.class
+com\abc\p2p\model\User.class
+com\abc\p2p\Application.class
+com\abc\p2p\service\BidInfoService.class
+com\abc\p2p\service\LoanService.class
+com\abc\p2p\model\LoanInfo.class
+com\abc\p2p\service\ModifyPasswordService.class
+com\abc\p2p\service\RedisService.class
