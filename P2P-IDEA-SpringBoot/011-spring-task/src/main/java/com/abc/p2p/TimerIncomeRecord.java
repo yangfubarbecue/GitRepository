@@ -19,7 +19,7 @@ public class TimerIncomeRecord {
     @Scheduled(cron = "0/5 * * * * ?") //调度器注解，每5秒执行一次
     public void test() {
         log.info("--test() start--");
-
+        System.out.println("这是一个线程测试游戏");
         System.out.println(++count);
         Integer a = 127;
         Integer b = 127;
